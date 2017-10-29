@@ -1,0 +1,9 @@
+Building Jaycoin
+
+See doc/readme-qt.rst for instructions on building Jaycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Jaycoin.
+
+See doc/build-*.txt for instructions on building Jaycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jaycoin.
